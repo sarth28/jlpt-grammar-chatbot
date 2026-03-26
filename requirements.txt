@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+fastapi
+mysql-connector-python
+sentence-transformers
+openai
+numpy
+python-dotenv
+streamlit
+requests
+uvicorn
