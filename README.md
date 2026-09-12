@@ -26,7 +26,7 @@ It helps users understand Japanese grammar patterns and provides intelligent res
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 .
@@ -39,7 +39,7 @@ It helps users understand Japanese grammar patterns and provides intelligent res
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 
