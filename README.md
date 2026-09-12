@@ -1,18 +1,18 @@
-# 🧠 JLPT Chatbot (Sensei-AI)
+#  JLPT Chatbot (Sensei-AI)
 
 A Japanese Language Proficiency Test (JLPT) assistant chatbot built using **FastAPI**, **Streamlit**, and **Sentence Transformers**.
 It helps users understand Japanese grammar patterns and provides intelligent responses based on semantic similarity.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 💬 Chatbot interface for JLPT queries
-* 🧠 Semantic search using Sentence Transformers
-* ⚡ FastAPI backend for handling requests
-* 🎨 Streamlit frontend for interactive UI
-* 🗄️ MySQL database integration
-* 🔐 Environment-based configuration using `.env`
+*  Chatbot interface for JLPT queries
+*  Semantic search using Sentence Transformers
+*  FastAPI backend for handling requests
+*  Streamlit frontend for interactive UI
+*  MySQL database integration
+*  Environment-based configuration using `.env`
 
 ---
 
@@ -102,21 +102,10 @@ You may use any publicly available JLPT dataset or create your own.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
-* ✅ Add authentication
-* ✅ Deploy on cloud (Streamlit Cloud / Render)
-* ✅ Improve NLP accuracy with fine-tuned models
-* ✅ Add more JLPT levels and examples
-
----
-
-## 👨‍💻 Author
-
-Developed as part of an AI/ML project integrating real-world chatbot applications.
+*  Add authentication
+*  Deploy on cloud (Streamlit Cloud / Render)
+*  Improve NLP accuracy with fine-tuned models
 
 ---
-
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
